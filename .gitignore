@@ -1,3 +1,4 @@
 *.csv
 *.log
+*.zip
 access_log*
